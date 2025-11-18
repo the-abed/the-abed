@@ -74,9 +74,13 @@
 <!--- pinned repos --->
 ## 📌 Pinned Projects
 
-| Paw Mart | Flower Market |
-|----------|---------------|
-| <a href="https://github.com/the-abed/paw-mart"><img src="https://github-readme-stats.vercel.app/api/pin/?username=the-abed&repo=paw-mart&theme=dark" /></a> | <a href="https://github.com/the-abed/flower-market"><img src="https://github-readme-stats.vercel.app/api/pin/?username=the-abed&repo=flower-market&theme=dark" /></a> |
+| PawMart Client | English Janala | Skill Swap |
+|----------------|----------------|------------|
+| <a href="https://github.com/the-abed/PawMart-client-site"><img src="https://github-readme-stats.vercel.app/api/pin/?username=the-abed&repo=PawMart-client-site&theme=dark" /></a> | <a href="https://github.com/the-abed/project-english-janala"><img src="https://github-readme-stats.vercel.app/api/pin/?username=the-abed&repo=project-english-janala&theme=dark" /></a> | <a href="https://github.com/the-abed/skill-swap-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=the-abed&repo=skill-swap-app&theme=dark" /></a> |
+
+| Panda Website | Hero.io | Payoo MFS Bank |
+|---------------|---------|----------------|
+| <a href="https://github.com/the-abed/panda-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=the-abed&repo=panda-website&theme=dark" /></a> | <a href="https://github.com/the-abed/hero-io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=the-abed&repo=hero-io&theme=dark" /></a> | <a href="https://github.com/the-abed/payoo-mfs-bank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=the-abed&repo=payoo-mfs-bank&theme=dark" /></a> |
 
 
 <!--- github stats --->
