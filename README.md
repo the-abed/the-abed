@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <img src="banner.png" alt="Hello world">
 
