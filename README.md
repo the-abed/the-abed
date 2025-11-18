@@ -1,6 +1,5 @@
 ## Hi there 👋
 
---><!--- banner --->
 <img src="banner.png" alt="Hello world">
 
 <br/>
