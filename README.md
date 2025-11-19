@@ -6,7 +6,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Mohammad Abed</h1></summary>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Passionate+Full+Stack+Web+Developer;JavaScript+Enthusiast;Interested+in+Bioinformatics" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Passionate+Mern+Stack+Web+Developer;JavaScript+Enthusiast;" alt="Typing SVG" /></a>
   </ul>
 </div>
 
@@ -30,6 +30,7 @@
   <p align="left">
     <a href="https://www.linkedin.com/in/mohammad-abed-477100386/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" /></a>
     <a href="https://discord.gg/abed070101" target="blank"><img src="https://skillicons.dev/icons?i=discord" height="30" width="40" /></a>
+    <a href="https://x.com/AbedazimReal" target="blank"><img src="https://skillicons.dev/icons?i=twitter" height="30" width="40" /></a>
   </p>
 </div>
 
@@ -62,27 +63,6 @@
 <br/>
 
 <!--- contributions --->
-## 📈 GitHub Contributions
-![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=the-abed)
-
-<br/>
-
-<!--- contributions --->
-## 📈 GitHub Contributions
-![GitHub Contribution Graph](https://ghchart.rshah.org/the-abed)
-
-<!--- pinned repos --->
-## 📌 Pinned Projects
-
-| PawMart Client | English Janala | Skill Swap |
-|----------------|----------------|------------|
-| <a href="https://github.com/the-abed/PawMart-client-site"><img src="https://github-readme-stats.vercel.app/api/pin/?username=the-abed&repo=PawMart-client-site&theme=dark" /></a> | <a href="https://github.com/the-abed/project-english-janala"><img src="https://github-readme-stats.vercel.app/api/pin/?username=the-abed&repo=project-english-janala&theme=dark" /></a> | <a href="https://github.com/the-abed/skill-swap-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=the-abed&repo=skill-swap-app&theme=dark" /></a> |
-
-| Panda Website | Hero.io | Payoo MFS Bank |
-|---------------|---------|----------------|
-| <a href="https://github.com/the-abed/panda-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=the-abed&repo=panda-website&theme=dark" /></a> | <a href="https://github.com/the-abed/hero-io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=the-abed&repo=hero-io&theme=dark" /></a> | <a href="https://github.com/the-abed/payoo-mfs-bank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=the-abed&repo=payoo-mfs-bank&theme=dark" /></a> |
-
-
 <!--- github stats --->
 ## 📊 GitHub Stats
 
@@ -90,9 +70,41 @@
 |--------------|--------------|----------------|
 | ![](https://github-readme-stats.vercel.app/api?username=the-abed&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![](https://nirzak-streak-stats.vercel.app/?user=the-abed&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=the-abed&theme=dark&hide_border=false&layout=compact) |
 
----
 
 [![](https://visitcount.itsvg.in/api?id=the-abed&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+<br/>
+
+<!--- contributions --->
+## 📈 GitHub Contributions
+![GitHub Contribution Graph](https://ghchart.rshah.org/the-abed)
+
+<br/>
+
+<!--- pinned repos --->
+## 📌 Pinned Projects
+
+<div align="center">
+
+| PawMart Client | Skill Swap |
+|----------------|------------|
+| <a href="https://github.com/the-abed/PawMart-client-site"><img src="https://github-readme-stats.vercel.app/api/pin/?username=the-abed&repo=PawMart-client-site&theme=dark" /></a> | <a href="https://github.com/the-abed/skill-swap-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=the-abed&repo=skill-swap-app&theme=dark" /></a> |
+
+| English Janala | Panda Website |
+|----------------|---------------|
+| <a href="https://github.com/the-abed/project-english-janala"><img src="https://github-readme-stats.vercel.app/api/pin/?username=the-abed&repo=project-english-janala&theme=dark" /></a> | <a href="https://github.com/the-abed/panda-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=the-abed&repo=panda-website&theme=dark" /></a> |
+
+| Hero.io | Payoo MFS Bank |
+|---------|----------------|
+| <a href="https://github.com/the-abed/hero-io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=the-abed&repo=hero-io&theme=dark" /></a> | <a href="https://github.com/the-abed/payoo-mfs-bank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=the-abed&repo=payoo-mfs-bank&theme=dark" /></a> |
+
+</div>
+
+
+
+
+
 
 <br/>
 
