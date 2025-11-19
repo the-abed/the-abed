@@ -36,31 +36,52 @@
 
 <br/>
 
-<!--- technology --->
-## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35"><b> TECHNOLOGY STACK:</b>
+<h2>💡 Tech Stack</h2>
 
-### Languages:
-![Languages](https://skillicons.dev/icons?i=html,css,javascript)
+<table width="100%" border="0">
+  <tr>
+    <td><strong>Frontend :</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML-F06529?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+      <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" height="28"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend & Database :</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Deployments :</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Surge-FF3C00?style=for-the-badge&logo=surge&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tools :</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pixso-FF6F61?style=for-the-badge&logo=pixso&logoColor=white" height="28"/>
+    </td>
+  </tr>
+</table>
 
-### CSS Frameworks:
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
+</br>
 
-### JavaScript Frameworks:
-![JS Frameworks](https://skillicons.dev/icons?i=react,next,redux,nodejs,express)
-
-### Database:
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-
-### Deployment:
-![Deployment](https://skillicons.dev/icons?i=vercel,netlify,firebase)
-
-### Design:
-![Design](https://skillicons.dev/icons?i=figma)
-
-### Tools:
-![Tools](https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman)
-
-<br/>
 
 <!--- contributions --->
 <!--- github stats --->
@@ -77,8 +98,10 @@
 <br/>
 
 <!--- contributions --->
-## 📈 GitHub Contributions
-![GitHub Contribution Graph](https://ghchart.rshah.org/the-abed)
+### 📈 Contribution Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=the-abed&theme=react-dark&hide_border=true&area=true" />
+</p>
 
 <br/>
 
