@@ -106,30 +106,6 @@
 
 <br/>
 
-<!--- pinned repos --->
-## 📌 Pinned Projects
-
-<div align="center">
-
-| UrbanPulse | PawMart Client |
-|------------|---------------|
-| <a href="https://github.com/the-abed/urban-pulse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=the-abed&repo=urban-pulse&theme=dark" /></a> | <a href="https://github.com/the-abed/PawMart-client-site"><img src="https://github-readme-stats.vercel.app/api/pin/?username=the-abed&repo=PawMart-client-site&theme=dark" /></a> |
-
-| Skill Swap | English Janala |
-|------------|---------------|
-| <a href="https://github.com/the-abed/skill-swap-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=the-abed&repo=skill-swap-app&theme=dark" /></a> | <a href="https://github.com/the-abed/project-english-janala"><img src="https://github-readme-stats.vercel.app/api/pin/?username=the-abed&repo=project-english-janala&theme=dark" /></a> |
-
-| Hero.io | Payoo MFS Bank |
-|---------|---------------|
-| <a href="https://github.com/the-abed/hero-io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=the-abed&repo=hero-io&theme=dark" /></a> | <a href="https://github.com/the-abed/payoo-mfs-bank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=the-abed&repo=payoo-mfs-bank&theme=dark" /></a> |
-
-</div>
-
-
-
-
-
-
 
 <br/>
 
