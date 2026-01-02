@@ -17,7 +17,7 @@ I am a passionate Full Stack Developer focused on building scalable web applicat
 
 ### 🚀 Current Activities
 * 🔭 I am currently exploring **Next.js** to build SEO-friendly web applications.
-* 🏗️ I’m working on a comprehensive **Shoping website** featuring dynamic buying systems.
+* 🏗️ I’m working on a comprehensive **E-Shop website** featuring dynamic buying systems.
 * ✍️ I regularly share my technical journey and articles on **LinkedIn**.
 
 ---
